@@ -134,8 +134,8 @@ bookcover.html
 ## Output:
 Include your output screenshot here
 
-![output](/static/images/cover.png)
+![OUTPUT](./cover.png)
 
-![OUTPUT](/static/images/val.png)
+![OUTPUT](./val.png)
 ## Result:
 Therefore the program for creating bookcover is executed successfully.
